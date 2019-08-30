@@ -1,0 +1,5 @@
+export const GET_SHOP_LIST = 'get_shop_list'
+export const GET_SHOP_ADDRESS='get_shop_address'
+export const GET_SHOP_CATEGROY='get_shop_categroy'
+export const DELETE_SHOP_LIST='delete_shop_list'
+export const GET_SHOP_EDIT='get_shop_edit'
